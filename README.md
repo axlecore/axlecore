@@ -18,7 +18,7 @@ I’ve also delivered practical GenAI workflows using LLM orchestration, RAG arc
 <h4>
 Known for strong communication, clean architecture principles, and mentoring engineers, I build reliable, production-ready systems that scale and support real business impact.
 </h4>
-
+ 
 
 <br/>
 
