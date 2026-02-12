@@ -38,16 +38,16 @@ Known for strong communication, clean architecture principles, and mentoring eng
       <br>Typescript
     </td>
     <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=java" width="45" height="45" alt="java" />
+      <br>java
+    </td>
+    <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=cpp" width="45" height="45" alt="cpp" />
       <br>C++
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=go" width="45" height="45" alt="Go" />
       <br>GoLang
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=java" width="45" height="45" alt="java" />
-      <br>java
     </td>
   </tr>
   <!-- network -->
