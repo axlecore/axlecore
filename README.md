@@ -19,7 +19,6 @@ I’ve also delivered practical GenAI workflows using LLM orchestration, RAG arc
 Known for strong communication, clean architecture principles, and mentoring engineers, I build reliable, production-ready systems that scale and support real business impact.
 </h4>
  
-
 <br/>
 
 # 
@@ -74,8 +73,15 @@ Known for strong communication, clean architecture principles, and mentoring eng
       <br>Django
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=laravel" width="45" height="45" alt="Laravel" />
-      <br>Laravel
+      <img src="https://skillicons.dev/icons?i=fastapi" width="45" height="45" alt="FastAPI" />
+      <br>FastAPI
+    </td>
+    
+  </tr>
+  <tr>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=graphql" width="45" height="45" alt="GraphQL" />
+      <br>GraphQL
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=angular" width="45" height="45" alt="Angular" />
@@ -93,6 +99,10 @@ Known for strong communication, clean architecture principles, and mentoring eng
       <img src="https://skillicons.dev/icons?i=mysql" width="45" height="45" alt="MySQL" />
       <br>MySQL
     </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=redis" width="45" height="45" alt="Redis" />
+      <br>Redis
+    </td>
   </tr>
 <!-- common -->
   <tr>
@@ -109,16 +119,16 @@ Known for strong communication, clean architecture principles, and mentoring eng
       <br>LangChain
     </td>
     <td align="center" width="90">
+      <img src="./icons/langgraph.png" width="45" height="45" alt="LangGraph" />
+      <br>LangGraph
+    </td>
+    <td align="center" width="90">
       <img src="./icons/huggingface.svg" width="45" height="45" alt="HuggingFace" />
       <br>Hugging Face
     </td>
     <td align="center" width="90">
       <img src="./icons/ollama.svg" width="45" height="45" alt="Ollama" />
       <br>Ollama
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=fastapi" width="45" height="45" alt="FastAPI" />
-      <br>FastAPI
     </td>
   </tr>
   
